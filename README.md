@@ -18,21 +18,7 @@ A lightweight, in-memory banking API to handle deposits, withdrawals, and transf
 
 ## Project Structure
 
-ebanks/
-├── simplebank/                            # Main application package
-│   ├── init.py                            # Application factory
-│   ├── routes.py                          # API route definitions
-│   ├── services/
-│   │   └── account_service.py             # Business logic for account operations
-│   ├── errors.py                          # Custom error definitions and handlers
-│   └── config.py                          # Configuration classes (Development, Testing)
-├── tests/                                 # Test suite
-│   ├── conftest.py                        # Pytest fixtures
-│   ├── test_deposit.py
-│   ├── test_transfer.py
-│   └── test_withdraw.py
-├── run.py                                 # Script to run the Flask development server
-└── requirements.txt                       # Project dependencies
+![image](https://github.com/user-attachments/assets/fe624a07-2a76-4901-8c8f-fc9939b19233)
 
 ## Setup and Installation
 
